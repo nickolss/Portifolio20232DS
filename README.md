@@ -1,6 +1,6 @@
 
 <div align="center" style="display: flex; align-items: center; gap: 15px; ">
-<a href='https://www.ibm.com/'><img width="500px" src="assets/empresas.png"></a>
+<img width="500px" src="assets/empresas.png">
 </div>
 
 **Portfólio do curso de Desenvolvimento de Sistemas Novotec AMS na ETEC Zona Leste**
